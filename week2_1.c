@@ -14,7 +14,7 @@ int main()
     }
     if (num4 % 2 == 0) {
         a = a + 1;
-        printf("%d", a);
     }
+    printf("ANS = %d", a);
     return 0;
 }
