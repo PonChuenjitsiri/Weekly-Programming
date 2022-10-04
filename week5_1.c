@@ -15,5 +15,8 @@ int main()
         if (result3 > result2 && result3 > result1) {
             printf("%d", result3);
         }
+        if (num1 == num2 && num1 == num3 && num2 == num3){
+             printf("%d", result1);
+        }
     return 0;
 }
